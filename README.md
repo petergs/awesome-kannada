@@ -4,15 +4,16 @@
 ## Contents
 
 - [Awesome Kannada](#awesome-kannada)
-  - [Community](#community)
+  - [Community & Lessons](#community--lessons)
   - [Mobile](#mobile)
   - [Video](#video)
   - [Podcasts](#podcasts)
   - [Books and Written Resources](#books-and-written-resources)
   - [Other Resources](#other-resources)
 
-## Community
+## Community & Lessons
 - [/r/kannada](https://reddit.com/r/kannada)
+- [italki](https://www.italki.com/en/teachers/kannada?speaks[0]=english)
 
 ## Mobile
 - [Memrise - Kannada for Beginners](https://app.memrise.com/course/990976/aarnbhignige-knndd-paatthgllu-kannada-for-beginner/) by [Rizael99](https://app.memrise.com/user/Rizael99/) - High quality course with 1578 words in Kannada script, English transliteration, and audio recording.
@@ -28,6 +29,7 @@
 
 ## Books and Written Resources
 - [University of Pennsylvania - Spoken Kannada](https://ccat.sas.upenn.edu/plc/kannada/)
+- [A Manual of Modern Kannada](https://www.loc.gov/item/2022389548) ([Mirror 1](https://hasp.ub.uni-heidelberg.de/catalog/book/736?lang=en))
 
 ## Other Resources
 Some resources haven't been vetted, but you can find them in [other-resources.csv](./other-resources.csv).
