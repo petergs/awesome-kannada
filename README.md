@@ -17,6 +17,8 @@
 
 ## Mobile
 - [Memrise - Kannada for Beginners](https://app.memrise.com/course/990976/aarnbhignige-knndd-paatthgllu-kannada-for-beginner/) by [Rizael99](https://app.memrise.com/user/Rizael99/) - High quality course with 1578 words in Kannada script, English transliteration, and audio recording.
+- [Anki](https://apps.ankiweb.net/)
+  - [Nithya Kannda](https://ankiweb.net/shared/info/582154905) ([Project Page](https://thejeshgn.com/projects/nithya-kannada/))
 
 ## Video 
 - [KannadaTV](https://www.youtube.com/@Kannadateevee) - Youtube channel with playlists on the Kannada [alphabet](https://www.youtube.com/playlist?list=PLOb5Wwt1GhOm5wWhnVT-eP5wTIgkdpDz9), [vocabulary](https://www.youtube.com/playlist?list=PLOb5Wwt1GhOkoQSCuaPVOXqD3oyRGMEI3), and general *Learn Kannada Through English* and *Learn Kannada Through Hindi* courses.
@@ -26,6 +28,7 @@
 
 ## Podcasts
 - [Kannada Gothilla](https://www.instagram.com/kannada.gothilla)
+- [Nithya Kannada](https://thejeshgn.com/projects/nithya-kannada/) ([Github](https://github.com/thejeshgn/nithya-kannada)) by [Thejesh GN](https://thejeshgn.com/)
 
 ## Books and Written Resources
 - [University of Pennsylvania - Spoken Kannada](https://ccat.sas.upenn.edu/plc/kannada/)
