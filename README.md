@@ -9,6 +9,7 @@
   - [Video](#video)
   - [Podcasts](#podcasts)
   - [Books and Written Resources](#books-and-written-resources)
+  - [Websites](#websites)
   - [Other Resources](#other-resources)
 
 ## Community & Lessons
@@ -33,6 +34,9 @@
 ## Books and Written Resources
 - [University of Pennsylvania - Spoken Kannada](https://ccat.sas.upenn.edu/plc/kannada/)
 - [A Manual of Modern Kannada](https://www.loc.gov/item/2022389548) ([Mirror 1](https://hasp.ub.uni-heidelberg.de/catalog/book/736?lang=en))
+
+## Websites
+- [Alar](https://alar.ink/) ([Github](https://github.com/alar-dict)) - An open-source Kannada dictionary with a web interface. Supported by [Zerodha](https://zerodha.tech/blog/alar-the-making-of-an-open-source-dictionary/) and based on a corpus created by V. Krishna. 
 
 ## Other Resources
 Some resources haven't been vetted, but you can find them in [other-resources.csv](./other-resources.csv).
